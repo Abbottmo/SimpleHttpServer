@@ -1,0 +1,2 @@
+# SimpleHttpServer
+这是一个简单的通过libevent实现的http server代码，可以实现http访问服务端资源
